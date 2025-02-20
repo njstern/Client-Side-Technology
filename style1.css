@@ -1,0 +1,102 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #3cbddd;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 32px;
+  width: 239px;
+  height: 57px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 720px;
+  top: 32px;
+  width: 265px;
+  height: 78px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 985px;
+  top: 34px;
+  width: 295px;
+  height: 74px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 34px;
+  width: 216px;
+  height: 46px;
+}
+.let-s-create-a-website-design {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  position: absolute;
+  left: 60px;
+  top: 395px;
+  width: 1319px;
+}
+.rectangle-1 {
+  border-radius: 0px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 622px;
+  overflow: visible;
+}
+.today-let-s-create-a-sample-website-design-in-figma-and-export-its-corresponding-html-and-css-code {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 366px;
+  top: 468px;
+  width: 708px;
+  height: 136px;
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 622px;
+  top: 636px;
+  width: 196px;
+  height: 57px;
+}
